@@ -1,0 +1,10 @@
+# Todos os arquivos têm como owner default o fundador
+*                          @NPATecnologia
+
+# Infra / CI
+/.github/                  @NPATecnologia
+/.github/workflows/        @NPATecnologia
+
+# Config crítica
+/LICENSE                   @NPATecnologia
+/SECURITY.md               @NPATecnologia
