@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Solicitar orçamento
+    url: https://www.npatecnologia.com.br/
+    about: Para propostas comerciais e novos projetos, fale pelo site.
+  - name: Suporte comercial
+    url: mailto:nathan@npatecnologia.com.br
+    about: Dúvidas sobre projetos ativos, envie email direto.
