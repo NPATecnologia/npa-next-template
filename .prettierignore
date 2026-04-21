@@ -1,0 +1,20 @@
+# Build artifacts
+.next
+out
+dist
+build
+coverage
+
+# Dependencies
+node_modules
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Generated
+*.tsbuildinfo
+next-env.d.ts
+.turbo
+
+# Vendored
+public
